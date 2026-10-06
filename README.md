@@ -116,8 +116,8 @@ Microsoft SC-900 · Microsoft DP-900 · ITS JavaScript · ITS HTML & CSS
 
 ## Let's Connect
 
-📧 **Email:** your.email@example.com
-💼 **LinkedIn:** [your LinkedIn URL]
+📧 **Email:** ahmedemadsamra326@gmail.com
+💼 **LinkedIn:** [https://www.linkedin.com/in/ahmedesamra/]
 💻 **GitHub:** [a7med233](https://github.com/a7med233)
 📍 **Location:** Budapest, Hungary
 
