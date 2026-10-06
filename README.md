@@ -1,127 +1,124 @@
-# 👋 Hi, I'm Ahmed Samra
+# Hi, I'm Ahmed Samra 👋
 
-### 🚀 Web & Mobile Developer | React • Next.js • Node.js • React Native
+### Web & Mobile Developer | React · Next.js · Node.js · React Native
 
-I’m a passionate Web Developer based in **Budapest, Hungary**, specializing in building
-scalable web applications and modern mobile apps. I focus on delivering
-**performance-driven**, **user-friendly**, and **cleanly architected** solutions.
+I'm a developer based in **Budapest, Hungary**, building web applications and cross-platform mobile apps for iOS and Android. I care about clean architecture, good performance, and interfaces people enjoy using, and I like working across the stack, from responsive UIs to the APIs behind them.
 
-I enjoy working across the full stack, from responsive UIs to robust backend systems.
+Beyond code, I work directly with customers and the business side: gathering requirements, shipping the features they ask for, and helping plan growth. I like building things that solve real problems.
 
 ---
 
-## 🔥 About Me
-- 🎓 Studying **Computer Science** at the University of Debrecen (GPA: 4.27/5)  
-- 🥇 Recipient of the **Stipendium Hungaricum Scholarship**  
-- 💼 Experience in **React**, **Next.js**, **Node.js**, **Express**, **SQL**, **MongoDB**, and **React Native**  
-- 📱 Building cross-platform mobile apps with React Native  
-- 🔒 Interested in security, performance optimization, and scalable architecture  
-- 🤝 Strong team collaborator with Agile experience  
+## About Me
+
+- 🎓 Bachelor of Computer Science, University of Debrecen (2022–2025), GPA 4.27 / 5.00
+- 🥇 Stipendium Hungaricum Scholarship recipient (top 10% of global applicants)
+- 💼 Professional experience with **React**, **Next.js**, **Redux**, **Node.js**, **Express**, **SQL**, **MongoDB**, and **React Native**
+- 📱 Building and maintaining cross-platform mobile apps with Firebase, push notifications, and crash reporting
+- 🔍 Comfortable debugging across the stack: reproducing issues, analyzing API requests and responses, and finding root causes
+- 🔒 Interested in security, performance optimization, and scalable architecture
+- 🤝 Collaborative team member with Agile experience
+- 🌍 Native Arabic · Fluent English (C1) · Conversational Hungarian
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Languages**
-Java • JavaScript • TypeScript • Python • PHP • C
+**Languages:** JavaScript · TypeScript · Java · Python · PHP · C · SQL
 
-### **Frontend**
-React.js • Next.js • Redux • MUI • Vite.js • TailwindCSS
+**Frontend:** React.js · Next.js · Redux · MUI · Vite.js · Tailwind CSS · HTML5 · CSS3
 
-### **Backend / Databases**
-Node.js • Express.js • MongoDB • MySQL • SQL
+**Mobile:** React Native · React Native CLI · React Navigation · Firebase (push notifications, crash reporting)
 
-### **Tools**
-Git • GitHub • GitLab • Linux • JUnit • CI/CD basics
+**Backend & Databases:** Node.js · Express.js · REST APIs · MongoDB · MySQL
+
+**Tools:** Git · GitHub · GitLab · Linux · JUnit · CI/CD fundamentals
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🛒 **E-Commerce Website (MERN Stack)**
-**MongoDB, Express.js, React.js, Node.js, Vite.js**  
-A fully functional e-commerce platform with:
-- User authentication  
-- Product & order management  
-- Admin portal  
-- Stripe & Cash on Delivery payments  
-- Scalable MVC architecture  
+### 🍽️ Marwa Foods Web Application
+**React.js · Next.js · MUI · Redux · Node.js · SQL**
 
-🔗 *Coming soon…*
+A food-delivery platform used in production. Features include:
 
----
+- Store browsing and dynamic category navigation
+- Search, filtering, and wishlist management
+- Dynamic delivery-fee calculation
+- Responsive UI and REST API integration
 
-### 🍽️ **Marwa Foods Web Application**
-**React.js, Next.js, MUI, Redux, Node.js, SQL**  
-A food delivery web app featuring:
-- Dynamic category navigation  
-- Store browsing  
-- Responsive UI/UX  
-- Real-time delivery fee calculations  
-- Wishlist, filters, search  
-- Backend API integrations  
-
-🔗 https://marwa.hu
+🔗 [marwa.hu](https://marwa.hu)
 
 ---
 
-### ❤️‍🔥 **Lashwa Mobile Application**
-**React Native CLI, JavaScript**  
-A cross-platform mobile dating app with:
-- Swipe-based matching  
-- Real-time chat  
-- Secure authentication  
-- Profile verification  
-- Smooth UI for both iOS & Android  
+### 💬 Lashwa Mobile Application
+**React Native CLI · JavaScript · Firebase · REST APIs**
+
+A cross-platform social networking app for iOS and Android. Features include:
+
+- Swipe-based matching
+- Real-time chat and interactions
+- Secure authentication and user profiles
+- Push notifications and crash reporting through Firebase
 
 📱 *In development*
 
 ---
 
-## 💼 Experience
+### 🎉 Social Bond Hungary
+**React Native · JavaScript · REST APIs · Firebase**
 
-### **Software Developer Intern — S.P.O Marketing**  
-*Oct 2024 – Jun 2025, Debrecen*  
-- Contributed to front-end features using modern React-based tools  
-- Assisted in UI optimization and code refactoring  
-
-### **Web Developer — Marwa Foods**  
-*May 2024 – Present, Budapest*  
-- Improved UI/UX and performance of the React-based web app  
-- Strengthened security and optimized frontend performance  
-- Built scalable components in React, MUI, Redux, and Next.js  
+A mobile app for discovering and planning events in Hungary, with reusable cross-platform components, navigation flows, and notifications.
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Science**  
-University of Debrecen (2022–2025)  
-- Specialization: Web Development & React Native  
-- GPA: **4.27 / 5**
+### 🛒 E-Commerce Platform (MERN Stack)
+**MongoDB · Express.js · React.js · Node.js · Vite.js**
+
+A full-stack e-commerce platform with:
+
+- User authentication
+- Product and order management
+- Admin portal
+- Stripe and Cash on Delivery payments
+- Scalable MVC architecture
+
+🔗 *Coming soon…*
 
 ---
 
-## 📜 Certificates
-- Microsoft SC-900  
-- ITS HTML & CSS  
-- ITS JavaScript  
-- Microsoft DP-900  
+## Experience
+
+### Web Developer, Customer & Growth Lead: Marwa Foods
+*May 2024 – Present · Budapest, Hungary*
+
+- Build and maintain a React/Next.js web application with reusable, scalable components
+- Integrate frontend with REST APIs and troubleshoot issues together with backend developers
+- Work directly with customers to define and deliver new application features
+- Manage contracts and customer relationships
+- Plan marketing initiatives that helped grow base sales from 12M to 21M in two months
+
+### Software Developer Intern: S.P.O Marketing
+*Oct 2024 – Jun 2025 · Debrecen, Hungary*
+
+- Developed and optimized reusable UI components with modern React-based tools
+- Helped debug and resolve frontend issues in an Agile team
 
 ---
 
-## 🌍 Languages
-- Arabic — Native  
-- English — Fluent  
-- Hungarian — Conversational  
+## Education & Certifications
+
+**Bachelor of Computer Science**, University of Debrecen (2022–2025), specialized in Web Development and React Native
+
+Microsoft SC-900 · Microsoft DP-900 · ITS JavaScript · ITS HTML & CSS
 
 ---
 
-## 📫 Contact Me
-📧 **eng.ahmedsamra326@gmail.com**  
-📞 **+36 20 491 8753**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ahmedesamra  
-💻 **GitHub:** https://github.com/a7med233
+## Let's Connect
 
----
+📧 **Email:** your.email@example.com
+💼 **LinkedIn:** [your LinkedIn URL]
+💻 **GitHub:** [a7med233](https://github.com/a7med233)
+📍 **Location:** Budapest, Hungary
 
-### ⭐ If you like my work, feel free to star my repos or connect with me!  
+I'm always happy to talk about new projects, ideas, or opportunities. ⭐ If you like my work, feel free to star my repos!
